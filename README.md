@@ -7,6 +7,9 @@
       <img src="https://i.ytimg.com/vi/SoYDqLOIuVw/hqdefault.jpg"/>
       <br>     
       <p> Quand t'es en négatif avec teemo toi aussi faut que tu comprennes </p>
+      <br>
+      <p> TES UN PUTIN DE BRONZE </p>
+      <img src="https://i.pinimg.com/474x/8d/91/17/8d911789fe0c87bee1b7ff3025b3a2da--fan-art-bronze.jpg"/>
       </body>
 </html>
 
