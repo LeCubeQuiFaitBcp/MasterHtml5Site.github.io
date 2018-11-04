@@ -1,11 +1,7 @@
 
 # MasterHtml5Site.github.io
 <html>
-  <head> MasterHtml5
-    <style>
-      head { color: #FF0000; }
-    </style>
-   <head/>
+  <head> MasterHtml5 pourquoi tu troll ? <head/>
     <body>
       <br>
       <style>
