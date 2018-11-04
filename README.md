@@ -1,10 +1,15 @@
 
 # MasterHtml5Site.github.io
+<style> 
+  .p1 { color: #FF0000; }
+</style>
+
+
 <html>
   <head> MasterHtml5 pourquoi tu troll ? <head/>
     <body>
       <br>
-      <p> Un truc comme sa ? </p>
+      <p class="p1"> Un truc comme sa ? </p>
       <img src="https://dw9to29mmj727.cloudfront.net/misc/newsletter-naruto3.png"/>
       <br>     
       <p> Avec des images et tout ? </p>
