@@ -4,7 +4,6 @@
   <head> MasterHtml5 pourquoi tu troll ? <head/>
     <body>
       <br>
-      <style>
       <p> Un truc comme sa ? </p>
       <img src="https://dw9to29mmj727.cloudfront.net/misc/newsletter-naruto3.png"/>
       <br>     
