@@ -3,9 +3,9 @@
 
 
 <html>
-  <head> 
-    MasterHtml5 pourquoi tu troll ? 
-    <head/>
+  <head> MasterHtml5 pourquoi tu troll ? </head>
+
+    
     <body>
       <br>
       <p style="color: #FF0500" > Un truc comme sa ? </p>
