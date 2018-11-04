@@ -11,7 +11,7 @@
     <head/>
     <body>
       <br>
-      <p  style="color:#FF0500" > Un truc comme sa ? </p>
+      <p style="color: #FF0500" > Un truc comme sa ? </p>
       <img src="https://dw9to29mmj727.cloudfront.net/misc/newsletter-naruto3.png"/>
       <br>     
       <p> Avec des images et tout ? </p>
