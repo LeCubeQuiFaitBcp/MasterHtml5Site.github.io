@@ -1,10 +1,13 @@
 # MasterHtml5Site.github.io
 <html>
-  <head> MasterHtml5 <head/>
+  <head> MasterHtml5
+    <style>
+      head { color: #FF0000; }
+    </style>
+   <head/>
     <body>
       <br>
       <style>
-        p { color: #FF0000; }
       <p> Un truc comme sa ? </p>
       <img src="https://dw9to29mmj727.cloudfront.net/misc/newsletter-naruto3.png"/>
       <br>     
@@ -12,7 +15,6 @@
       <br>
       <p> Si oui bah dis oui mdr. </p>
       <img src="https://medias.comixtrip.fr/wp-content/uploads/2014/10/naruto-shippuden-02-1200x675.jpg"/>
-      </style>
       </body>
   </html>
 
