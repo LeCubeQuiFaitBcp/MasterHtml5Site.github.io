@@ -3,7 +3,12 @@
 
 
 <html>
-  <head> MasterHtml5 pourquoi tu troll ? <head/>
+  <head> 
+    MasterHtml5 pourquoi tu troll ? 
+    <style>
+    body { color: #FF0000; }
+     </style>
+    <head/>
     <body>
       <br>
       <p  style="color:#FF0500" > Un truc comme sa ? </p>
