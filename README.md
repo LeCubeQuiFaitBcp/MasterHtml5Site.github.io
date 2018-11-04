@@ -12,8 +12,8 @@
       <img src="https://medias.comixtrip.fr/wp-content/uploads/2014/10/naruto-shippuden-02-1200x675.jpg"/>
       </body>
     p { 
-        text-indent: 5em; 
-        background: powde;
-        }
+  text-indent: 5em; 
+  background: powderblue;
+}
   </html>
 
